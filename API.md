@@ -1,5 +1,6 @@
 how does data get from here to there?
-![[Pasted image 20240727183656.png]]
+![Pasted image 20240727183656](https://github.com/user-attachments/assets/c2705613-be44-4c4f-a233-9c34d1079c50)
+
 
 the hero of our connected world: application programming interface (API)
 an API is a messenger that takes a request and tells the system what you want to do and then returns the response back to you.
