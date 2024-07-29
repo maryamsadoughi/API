@@ -16,11 +16,11 @@ they all have APIs that creates connectivity.
 so API is just our waiters that running back and forth within applications, databases and devices to deliver the data and create connectivity that puts the world on our fingertips.
 
 now here we wanna check:
-[[LLM]]
-[[gpt]]
-[[quiz]]
-[[translate]]
-[[sheet]]
-[[meet]]
-[[Claude]]
-[[speech-to-text]]
+LLM
+GPT
+quiz
+translate
+sheet
+meet
+Claude
+speech-to-text
